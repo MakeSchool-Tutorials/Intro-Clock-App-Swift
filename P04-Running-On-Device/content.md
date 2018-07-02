@@ -7,6 +7,8 @@ Running your code on your device used to be a complicated process that required 
 
 >[action]
 >
+1. Follow the steps in this image...
+![Change bundle identifier](./change_bundle.png)
 1. Plug your iOS device into your Mac using a lightning cable.
 1. Unlock your phone and click "trust" if prompted.
 1. On the top left section of the _Xcode_ window where it says `iPhone 6S Plus` (or something similar), select your device from the drop down menu. (If it says your device is unavailable because of the version, lower the `Deployment Target` in the project settings).
