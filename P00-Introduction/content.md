@@ -7,6 +7,6 @@ _Fix the Clock_ is an extension of the earlier microgame. In this tutorial, you'
 
 # Getting started
 
-To begin this tutorial, first download the starter code project from [here](https://github.com/MakeSchool-Tutorials/Intro-Clock-App-Swift-Starter/archive/master.zip).
+To begin this tutorial, first download the starter code project from [here](https://github.com/MakeSchool-Tutorials/Intro-Clock-App-Swift-Starter/archive/swift4.zip).
 
 Once you've downloaded the starter project, double-click the `.zip` file to _extract_ the project folder. Open up the extracted folder and double-click `Clock.xcodeproj` so we can get started!
